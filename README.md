@@ -1,5 +1,5 @@
 # Resources
-A curated list of resources which i found are useful
+A curated list of resources which i found useful
 
 ## Roadmaps
 | SNo | Category | Link |
