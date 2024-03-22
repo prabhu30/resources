@@ -23,6 +23,7 @@ A curated list of resources which i found are useful
 | 03 | Chai Aur React (YT Playlist - Hindi) | [Link](https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) |
 
 ---
+
 ### Interview Questions
 
 | SNo  | Category | Link | 
