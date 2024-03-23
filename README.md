@@ -24,6 +24,18 @@ A curated list of resources which i found are useful
 
 ---
 
+## Projects
+
+### React Projects
+| SNo | Category | Link |
+| ------------- | ------------- | ------------- |
+| 01 | Hitesh Choudhary (10 Projects) | [Link](https://www.youtube.com/watch?v=4DqAvWonPAg) |
+| 02 | Sangam Mukherjee (25 Projects) | [Link](https://www.youtube.com/watch?v=5ZdHfJVAY-s) |
+| 03 | JavaScript Mastery (Playlist) | [Link](https://youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR) |
+| 04 | Traversy Media (Playlist) | [Link](https://youtube.com/playlist?list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb) |
+
+---
+
 ### Interview Questions
 
 | SNo  | Category | Link | 
