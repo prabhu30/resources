@@ -40,7 +40,7 @@ A curated list of resources which i found are useful
 
 | SNo  | Category | Link | 
 | ------------- | ------------- | ------------- |
-| 01 | LeetCode for Frontend | [Link](https://bigfrontend.dev) |
+| 01 | LeetCode for Web Developers | [Link](https://bigfrontend.dev) |
 | 02  | JavaScript Interview Questions by SudheerJ | [Link](https://github.com/sudheerj/javascript-interview-questions) |
 | 03 | GFG JavaScript Interview Questions | [Link](https://www.geeksforgeeks.org/javascript-interview-questions-and-answers) |
 | 04  | GFG React Interview Questions | [Link](https://www.geeksforgeeks.org/javascript-interview-questions-and-answers) |
