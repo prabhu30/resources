@@ -18,7 +18,7 @@ A curated list of resources which i found are useful
 ### React Courses
 | SNo | Category | Link |
 | ------------- | ------------- | ------------- |
-| 01 | Udemy Course by Maximilian | [Link](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) |
+| 01 | Udemy Course by Maximilian (Paid Course) | [Link](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) |
 | 02 | Scrimba Tutorial | [Link](https://scrimba.com/learn/learnreact) |
 | 03 | Chai Aur React (YT Playlist - Hindi) | [Link](https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) |
 
